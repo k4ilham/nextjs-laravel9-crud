@@ -1,0 +1,1 @@
+npx create-next-app@12.1.4 next-crud
